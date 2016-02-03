@@ -7,18 +7,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-03T06:17:19.629Z'
-dateModified: '2016-02-03T06:16:38.908Z'
+datePublished: '2016-02-03T06:19:31.922Z'
+dateModified: '2016-02-03T06:19:27.032Z'
 title: Welcome message
 author: []
+sourcePath: _posts/2016-02-03-welcome-message.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-03-welcome-message.md
-published: true
 _type: Blurb
 
 ---
